@@ -1,7 +1,8 @@
 # three-js-products-viewer
 
+15年接触three.js做的一个小项目
 
-<img align="center" width="33%" src="./preview.gif">
+<img align="center" width="80%" src="./preview.gif">
 
 
 ## start
