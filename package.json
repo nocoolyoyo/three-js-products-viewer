@@ -1,6 +1,12 @@
 {
   "name": "three-js-products-viewer",
   "version": "1.0.0",
+  "keywords": [
+    "three",
+    "three.js",
+    "WebGL",
+    "3D"
+  ],
   "main": "js/index.js",
   "repository": "git@github.com:nocoolyoyo/three-js-products-viewer.git",
   "author": "nocoolyoyo <574857444@qq.com>",
