@@ -1,0 +1,15 @@
+{
+  "name": "three-js-products-viewer",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "git@github.com:nocoolyoyo/three-js-products-viewer.git",
+  "author": "nocoolyoyo <574857444@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.5.1",
+    "koa-static": "^4.0.3"
+  },
+  "scripts": {
+    "start": "node server"
+  }
+}
