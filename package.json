@@ -1,7 +1,7 @@
 {
   "name": "three-js-products-viewer",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "js/index.js",
   "repository": "git@github.com:nocoolyoyo/three-js-products-viewer.git",
   "author": "nocoolyoyo <574857444@qq.com>",
   "license": "MIT",
